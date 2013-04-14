@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 
-<html lang='en'>
+<html lang='es'>
 
 	<head>
 
-		<meta charset='UTF-8' />
+		<meta charset='UTF-8'>
 
 		<title>UroohCMS</title>
 
 		<link href='http://fonts.googleapis.com/css?family=Noto+Sans' rel='stylesheet' type='text/css'>
-		<link rel='stylesheet' type='text/css' href="./style.css" />
+		<link rel='stylesheet' type='text/css' href="./style.css">
 
 		<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
 
